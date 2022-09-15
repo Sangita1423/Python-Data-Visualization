@@ -13,16 +13,10 @@ Sales Dashboard: https://dashboard-cis.herokuapp.com/
 
 ## Author
 
-- Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
+- Sangita from Coding Is Fun
+ 
 
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-
-
-![Logo](https://www.pythonandvba.com/banner-img)
+ 
 
