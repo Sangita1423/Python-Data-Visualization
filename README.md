@@ -201,4 +201,9 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 end_time = time.time()
-print(f"It took {end_time-start_time:.2f} seconds to compute")
+print(f"It took {end_time-start_time:.2f} seconds to compute
+
+
+
+
+https://www.youtube.com/watch?v=mTsZL-VmRVE
