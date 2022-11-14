@@ -207,3 +207,25 @@ print(f"It took {end_time-start_time:.2f} seconds to compute
 
 
 https://www.youtube.com/watch?v=mTsZL-VmRVE
+
+
+
+
+
+python -m pip install --upgrade pip                          # update python
+python -m pip install django                                        # django installation
+django-admin                                                                    # start Django admin panel                          
+ls                                                                                             # list of 
+django-admin startproject projectname                 # create Project
+python manage.py makemigrations                         # make migrations for project
+python manage.py migrate
+python manage.py runserver                                     #run on server
+python manage.py startapp appname                    # To create new app
+python manage.py createsuperuser                        # create admin, username, password in Django
+
+
+Installing virtualenv
+pip install virtualenv                                                       #install virtual environment
+virtualenv –version                                                       #Test your installation
+virtualenv virtualenv-name                                               #create a virtual environment
+virtualenv-name\scripts\activate                                   # activate virtual en
