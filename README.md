@@ -229,3 +229,8 @@ pip install virtualenv                                                       #in
 virtualenv –version                                                       #Test your installation
 virtualenv virtualenv-name                                               #create a virtual environment
 virtualenv-name\scripts\activate                                   # activate virtual en
+
+
+
+
+https://www.webslesson.info/2017/05/json-dynamic-dependent-select-box-using-jquery-and-ajax.html
